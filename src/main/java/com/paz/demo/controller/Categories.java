@@ -23,5 +23,12 @@ public class Categories {
     logger.info("list of category "+i);
     return "List of category";
   }
+  @GetMapping("test")
+  public String getTest(){
+    logger.info("-------------------");
+    for(int i=0;i<=10000;i++)
+    logger.info("list of category "+i);
+    return "It is working";
+  }
 
 }
