@@ -1,0 +1,76 @@
+2022-09-26 21:38:06,941 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting DemoApplication using Java 1.8.0_144 on DESKTOP-MP2IN30 with PID 12280 (C:\Users\Lenovo\Downloads\demo\target\classes started by Lenovo in C:\Users\Lenovo\Downloads\demo)
+2022-09-26 21:38:06,948 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-09-26 21:38:07,072 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-26 21:38:07,073 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-26 21:38:08,468 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-09-26 21:38:08,481 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-26 21:38:08,482 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-09-26 21:38:08,482 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-09-26 21:38:08,609 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-09-26 21:38:08,610 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1535 ms
+2022-09-26 21:38:08,869 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-26 21:38:09,108 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-09-26 21:38:09,126 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-09-26 21:38:09,156 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-26 21:38:09,170 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started DemoApplication in 3.121 seconds (JVM running for 5.119)
+2022-09-26 21:40:02,056 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-26 21:40:09,247 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting DemoApplication using Java 1.8.0_144 on DESKTOP-MP2IN30 with PID 14500 (C:\Users\Lenovo\Downloads\demo\target\classes started by Lenovo in C:\Users\Lenovo\Downloads\demo)
+2022-09-26 21:40:09,254 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-09-26 21:40:09,371 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-26 21:40:09,371 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-26 21:40:10,886 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-09-26 21:40:10,900 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-26 21:40:10,902 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-09-26 21:40:10,902 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-09-26 21:40:11,033 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-09-26 21:40:11,035 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1662 ms
+2022-09-26 21:40:11,387 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-26 21:40:11,684 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-09-26 21:40:11,707 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-09-26 21:40:11,740 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-26 21:40:11,760 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started DemoApplication in 3.436 seconds (JVM running for 5.364)
+2022-09-26 21:40:43,007 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-26 21:40:43,008 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-09-26 21:40:43,010 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2022-09-26 21:40:43,046 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-2] list of category
+2022-09-26 21:40:43,058 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-1] list of category
+2022-09-26 21:40:43,277 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-4] list of category
+2022-09-26 21:40:43,471 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-3] list of category
+2022-09-26 21:40:43,832 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-5] list of category
+2022-09-26 21:40:44,608 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-8] list of category
+2022-09-26 21:40:44,735 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-9] list of category
+2022-09-26 21:40:44,910 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-10] list of category
+2022-09-26 21:40:45,058 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-1] list of category
+2022-09-26 21:40:45,221 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-2] list of category
+2022-09-26 21:40:45,386 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-4] list of category
+2022-09-26 21:40:45,567 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-3] list of category
+2022-09-26 21:40:45,700 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-5] list of category
+2022-09-26 21:40:45,809 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-6] list of category
+2022-09-26 21:40:45,959 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-7] list of category
+2022-09-26 21:40:46,111 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-8] list of category
+2022-09-26 21:40:46,180 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-9] list of category
+2022-09-26 21:40:46,288 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-10] list of category
+2022-09-26 21:40:46,422 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-1] list of category
+2022-09-26 21:40:46,554 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-2] list of category
+2022-09-26 21:40:46,655 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-4] list of category
+2022-09-26 21:40:46,790 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-3] list of category
+2022-09-26 21:40:46,942 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-5] list of category
+2022-09-26 21:40:47,022 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-6] list of category
+2022-09-26 21:40:47,204 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-7] list of category
+2022-09-26 21:40:47,354 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-8] list of category
+2022-09-26 21:40:47,484 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-9] list of category
+2022-09-26 21:40:47,683 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-10] list of category
+2022-09-26 21:40:47,810 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-1] list of category
+2022-09-26 21:40:48,001 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-2] list of category
+2022-09-26 21:40:48,190 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-4] list of category
+2022-09-26 21:40:48,377 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-3] list of category
+2022-09-26 21:40:48,573 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-5] list of category
+2022-09-26 21:40:48,747 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-6] list of category
+2022-09-26 21:40:48,940 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-7] list of category
+2022-09-26 21:40:49,188 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-8] list of category
+2022-09-26 21:40:49,327 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-9] list of category
+2022-09-26 21:40:49,533 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-10] list of category
+2022-09-26 21:40:49,705 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-1] list of category
+2022-09-26 21:40:49,901 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-2] list of category
+2022-09-26 21:40:50,055 INFO com.paz.demo.controller.Categories [http-nio-8080-exec-4] list of category
+2022-09-26 21:42:23,519 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
